@@ -20,3 +20,8 @@ class Solution(object):
 sol = Solution()
 res = sol.longestCommonPrefix(['laa', 'lab', 'lac'])
 print(res)
+
+"""
+python 自带函数解决方案
+os.path.commonprefix(strs)
+"""
