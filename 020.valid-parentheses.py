@@ -37,5 +37,5 @@ class Solution(object):
 
 
 sol = Solution()
-res = sol.isValid("()")
+res = sol.isValid("{[]}")
 print(res)
