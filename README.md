@@ -8,3 +8,4 @@
 6. [Four Sum](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/018._4sum.md) 第一个解法中的 `ans` 应该为 `res`
 7. [Generate Parentheses](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/022._generate_parentheses.md) 解法中函数命名错误，`generateParenthesis` 应为 `generateParentheses`
 8. [Long Valid Parentheses](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/032._longest_valid_parentheses.md) 解法2有误，比正确答案多1
+9. [Combination Sum II](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/040._combination_sum_ii.md) 名字的最后应该是罗马数字的2，而不是`ii`
