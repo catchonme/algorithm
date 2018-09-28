@@ -11,3 +11,4 @@
 9. [Multiply String](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/043._multiply_strings.md) 原题链接 第一个链接多了个`>`，导致页面打不开
 10. [Multiply String](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/043._multiply_strings.md) 思路2 答案出错
 11. [Wildcard Matching](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/044._wildcard_matching.md) Python2的`xrange`应该修改为Python3的`range`
+12. [Rotate Image](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/048._rotate_image.md) 解法1和解法2都无法返回正确结果
