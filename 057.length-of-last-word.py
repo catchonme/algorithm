@@ -1,0 +1,15 @@
+#!/usr/bin/python3
+
+
+class Solution(object):
+    def lengthOfLastWord(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        return len(s.strip().split(" ")[-1])
+
+
+sol = Solution()
+res = sol.lengthOfLastWord('Hello World')
+print(res)
