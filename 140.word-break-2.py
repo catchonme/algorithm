@@ -18,3 +18,8 @@ class Solution(object):
         for i in range(1+len(rest)):
             if rest[:i] in wordDict:
                 self.wordBreakLst(lst + rest[:i] + " ", rest[i:], wordDict)
+
+
+sol = Solution()
+result = sol.wordBreak("catsanddog", ["cat", "cats", "and", "sand", "dog"])
+print(result)
