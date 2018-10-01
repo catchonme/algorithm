@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7395acd0-6d6d-4a40-8ace-78306dadd95e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7395acd0-6d6d-4a40-8ace-78306dadd95e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,66 +134,41 @@
         <counts>
           <entry key="ipynb" value="2" />
           <entry key="md" value="10" />
-          <entry key="py" value="140" />
+          <entry key="py" value="142" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="2" />
           <entry key="Markdown" value="10" />
-          <entry key="Python" value="140" />
+          <entry key="Python" value="142" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="36" />
           <entry key="md" value="854" />
-          <entry key="py" value="54732" />
+          <entry key="py" value="55209" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="854" />
           <entry key="PLAIN_TEXT" value="36" />
-          <entry key="Python" value="54732" />
+          <entry key="Python" value="55209" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/151.reverse-words-in-a-string.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding>
-                <marker date="1538370086364" expanded="true" signature="44:49" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/152.maximum-product-subarray.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <marker date="1538370636667" expanded="true" signature="44:49" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/153.find-minimum-in-rotated-sorted-array.py">
+        <entry file="file://$PROJECT_DIR$/155.min-stack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="521">
+              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
               <folding>
-                <marker date="1538370780730" expanded="true" signature="44:45" ph="..." />
-                <marker date="1538370780730" expanded="true" signature="44:49" ph="..." />
+                <marker date="1538371411129" expanded="true" signature="73:78" ph="..." />
               </folding>
             </state>
           </provider>
@@ -225,8 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/096.unique-binary-search-trees.py" />
-        <option value="$PROJECT_DIR$/098.validate-binary-search-tree.py" />
         <option value="$PROJECT_DIR$/100.same-tree.py" />
         <option value="$PROJECT_DIR$/101.symmetric-tree.py" />
         <option value="$PROJECT_DIR$/102.binary-tree-level-order-traversal.py" />
@@ -276,6 +247,8 @@
         <option value="$PROJECT_DIR$/151.reverse-words-in-a-string.py" />
         <option value="$PROJECT_DIR$/152.maximum-product-subarray.py" />
         <option value="$PROJECT_DIR$/153.find-minimum-in-rotated-sorted-array.py" />
+        <option value="$PROJECT_DIR$/154.find-minimum-in-rotated-sorted-array-2.py" />
+        <option value="$PROJECT_DIR$/155.min-stack.py" />
       </list>
     </option>
   </component>
@@ -286,8 +259,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1000" />
-    <option name="y" value="98" />
+    <option name="x" value="634" />
+    <option name="y" value="27" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -476,11 +449,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="841" y="116" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="634" y="27" width="1440" height="877" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840763" visible="true" weight="0.0" />
-      <window_info id="Structure" order="1" sideWeight="0.50159234" side_tool="true" weight="0.32761088" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49462366" visible="true" weight="0.3297568" />
+      <window_info id="Structure" order="1" sideWeight="0.50537634" side_tool="true" weight="0.3297568" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -493,7 +465,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.786747" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.52611464" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -558,20 +530,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/094.binary-tree-inorder-traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/096.unique-binary-search-trees.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/098.validate-binary-search-tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
@@ -948,13 +906,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/154.find-minimum-in-rotated-sorted-array-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1538370909727" expanded="true" signature="44:49" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/153.find-minimum-in-rotated-sorted-array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding>
             <marker date="1538370780730" expanded="true" signature="44:45" ph="..." />
             <marker date="1538370780730" expanded="true" signature="44:49" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/155.min-stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <marker date="1538371411129" expanded="true" signature="73:78" ph="..." />
           </folding>
         </state>
       </provider>
