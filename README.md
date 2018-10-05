@@ -19,3 +19,4 @@
 17. 所有的题目前面都有`###` 其实是`markdown`语法，作者没有加空格，如`###130. Surrounded Regions`
 18. `x >= 0 and x < row and y >= 0 and y < col` 这种代码编辑器都会给出提示，应该简化代码，如`if x == None`应该修改为`if x is None` 才行
 19. [Palindrome Partitioning](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/131._palindrome_partitioning.md) 解法有误
+20. [Intersection Of Two Linked Lists](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/160._intersection_of_two_linked_lists.md) 参数注释有误
