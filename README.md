@@ -22,3 +22,4 @@
 20. [Intersection Of Two Linked Lists](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/160._intersection_of_two_linked_lists.md) 参数注释有误
 21. [Fraction to Recurring Decimal](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/166._Fraction_to_Recurring_Decimal.md) 解法有误(1, 2)返回0.5.5.0
 22. [Largest Number](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/179._Largest_Number.md) 解法出错
+23. [Number of Islands](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/200._number_of_islands.md) 解法出错
