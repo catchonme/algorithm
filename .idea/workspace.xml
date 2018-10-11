@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7395acd0-6d6d-4a40-8ace-78306dadd95e" name="Default Changelist" comment="" />
+    <list default="true" id="7395acd0-6d6d-4a40-8ace-78306dadd95e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +114,7 @@
     <SUITE FILE_PATH="coverage/leetcode$200_number_of_islands.coverage" NAME="200.number-of-islands Coverage Results" MODIFIED="1539045852436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$207_course_schedule.coverage" NAME="207.course-schedule Coverage Results" MODIFIED="1539047718309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$056_merge_intervals.coverage" NAME="056.merge-intervals Coverage Results" MODIFIED="1538182534429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$227_basic_calculator_2.coverage" NAME="227.basic-calculator-2 Coverage Results" MODIFIED="1539219115577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$223_rectangle_area.coverage" NAME="223.rectangle-area Coverage Results" MODIFIED="1539217126375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$221_maximal_square.coverage" NAME="221.maximal-square Coverage Results" MODIFIED="1539216105987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$017_letter_combinations_of_a_phone_number.coverage" NAME="017.letter-combinations-of-a-phone-number Coverage Results" MODIFIED="1537926783490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -144,9 +147,9 @@
     <session id="-1875927905">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="61" />
+          <entry key="project.closed" value="62" />
           <entry key="project.open.time.0" value="16" />
-          <entry key="project.open.time.1" value="32" />
+          <entry key="project.open.time.1" value="33" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="2" />
@@ -155,36 +158,36 @@
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="62" />
+          <entry key="project.opened" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="2" />
-          <entry key="md" value="13" />
-          <entry key="py" value="187" />
+          <entry key="md" value="14" />
+          <entry key="py" value="190" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="2" />
-          <entry key="Markdown" value="13" />
-          <entry key="Python" value="187" />
+          <entry key="Markdown" value="14" />
+          <entry key="Python" value="190" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="53" />
-          <entry key="md" value="1032" />
-          <entry key="py" value="70447" />
+          <entry key="md" value="1060" />
+          <entry key="py" value="71569" />
           <entry key="sql" value="130" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1032" />
+          <entry key="Markdown" value="1060" />
           <entry key="PLAIN_TEXT" value="53" />
-          <entry key="Python" value="70447" />
+          <entry key="Python" value="71569" />
           <entry key="SQL" value="130" />
         </counts>
       </usages-collector>
@@ -193,121 +196,61 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/213.house-robber-2.py">
+        <entry file="file://$PROJECT_DIR$/224.basic-calculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
-              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            <state relative-caret-position="1581">
+              <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
               <folding>
-                <marker date="1539172282274" expanded="true" signature="43:48" ph="..." />
+                <marker date="1539217928605" expanded="true" signature="44:49" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/215.kth-largest-element-in-an-array.py">
+        <entry file="file://$PROJECT_DIR$/225.implement-stack-using-queues.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            <state relative-caret-position="527">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
               <folding>
-                <marker date="1539172687657" expanded="true" signature="44:49" ph="..." />
+                <marker date="1539218185683" expanded="true" signature="44:49" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/216.combination-sum-3.py">
+        <entry file="file://$PROJECT_DIR$/226.invert-binary-tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+            <state relative-caret-position="310">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
               <folding>
-                <marker date="1539172976440" expanded="true" signature="44:49" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/217.contains-duplicate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-              <folding>
-                <marker date="1539173071412" expanded="true" signature="44:49" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/218.the-skyline-problem.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <marker date="1539173489617" expanded="true" signature="44:49" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/219.contains-duplicate-2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <marker date="1539215728321" expanded="true" signature="44:49" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/221.maximal-square.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
-              <folding>
-                <marker date="1539216105979" expanded="true" signature="44:49" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/222.count-complete-tree-nodes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-              <folding>
-                <marker date="1539216998966" expanded="true" signature="55:60" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/223.rectangle-area.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="5" column="116" selection-start-line="5" selection-start-column="116" selection-end-line="5" selection-end-column="116" />
-              <folding>
-                <marker date="1539217126369" expanded="true" signature="44:49" ph="..." />
+                <marker date="1539218656600" expanded="true" signature="44:49" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/224.basic-calculator.py">
+        <entry file="file://$PROJECT_DIR$/227.basic-calculator-2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="417">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+              <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
               <folding>
-                <marker date="1539217863578" expanded="true" signature="44:49" ph="..." />
+                <marker date="1539219089519" expanded="true" signature="44:49" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="775">
+                <caret line="25" column="149" selection-start-line="25" selection-start-column="149" selection-end-line="25" selection-end-column="149" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -336,9 +279,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/152.maximum-product-subarray.py" />
-        <option value="$PROJECT_DIR$/153.find-minimum-in-rotated-sorted-array.py" />
-        <option value="$PROJECT_DIR$/154.find-minimum-in-rotated-sorted-array-2.py" />
         <option value="$PROJECT_DIR$/155.min-stack.py" />
         <option value="$PROJECT_DIR$/157.read-n-characters-given-read4.py" />
         <option value="$PROJECT_DIR$/read-n-characters-given-read4-ii-call-multiple-times.py" />
@@ -365,7 +305,6 @@
         <option value="$PROJECT_DIR$/198.house-robber.py" />
         <option value="$PROJECT_DIR$/199.binary-tree-right-side-view.py" />
         <option value="$PROJECT_DIR$/200.number-of-islands.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/201.bitwisr-and-of-numbers-range.py" />
         <option value="$PROJECT_DIR$/203.remove-linked-list-elemens.py" />
         <option value="$PROJECT_DIR$/204.count-primes.py" />
@@ -387,6 +326,10 @@
         <option value="$PROJECT_DIR$/222.count-complete-tree-nodes.py" />
         <option value="$PROJECT_DIR$/223.rectangle-area.py" />
         <option value="$PROJECT_DIR$/224.basic-calculator.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/225.implement-stack-using-queues.py" />
+        <option value="$PROJECT_DIR$/226.invert-binary-tree.py" />
+        <option value="$PROJECT_DIR$/227.basic-calculator-2.py" />
       </list>
     </option>
   </component>
@@ -461,29 +404,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.224.basic-calculator">
-    <configuration name="215.kth-largest-element-in-an-array" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/215.kth-largest-element-in-an-array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.227.basic-calculator-2">
     <configuration name="216.combination-sum-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -572,20 +493,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="227.basic-calculator-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/227.basic-calculator-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.215.kth-largest-element-in-an-array" />
       <item itemvalue="Python.216.combination-sum-3" />
       <item itemvalue="Python.221.maximal-square" />
       <item itemvalue="Python.223.rectangle-area" />
       <item itemvalue="Python.224.basic-calculator" />
+      <item itemvalue="Python.227.basic-calculator-2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.227.basic-calculator-2" />
         <item itemvalue="Python.224.basic-calculator" />
         <item itemvalue="Python.223.rectangle-area" />
         <item itemvalue="Python.221.maximal-square" />
         <item itemvalue="Python.216.combination-sum-3" />
-        <item itemvalue="Python.215.kth-largest-element-in-an-array" />
       </list>
     </recent_temporary>
   </component>
@@ -606,12 +549,12 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49171272" visible="true" weight="0.33333334" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49171272" weight="0.3383405" />
       <window_info id="Structure" order="1" sideWeight="0.5082873" side_tool="true" weight="0.35011992" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37197453" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44076434" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -685,30 +628,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/148.sort-list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1922">
-          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/150.evalute-reverse-polish-notation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/151.reverse-words-in-a-string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <marker date="1538370086364" expanded="true" signature="44:49" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/152.maximum-product-subarray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -898,16 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="558">
-            <caret line="18" column="72" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/201.bitwisr-and-of-numbers-range.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
@@ -940,9 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <marker date="1539047274007" expanded="true" signature="44:49" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -950,9 +856,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1085">
           <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
-          <folding>
-            <marker date="1539047718302" expanded="true" signature="62:67" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1090,10 +993,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/224.basic-calculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="1581">
+          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
           <folding>
-            <marker date="1539217863578" expanded="true" signature="44:49" ph="..." />
+            <marker date="1539217928605" expanded="true" signature="44:49" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/225.implement-stack-using-queues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <marker date="1539218185683" expanded="true" signature="44:49" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="775">
+            <caret line="25" column="149" selection-start-line="25" selection-start-column="149" selection-end-line="25" selection-end-column="149" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/226.invert-binary-tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <marker date="1539218656600" expanded="true" signature="44:49" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/227.basic-calculator-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding>
+            <marker date="1539219089519" expanded="true" signature="44:49" ph="..." />
           </folding>
         </state>
       </provider>
