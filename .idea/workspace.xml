@@ -113,6 +113,7 @@
     <SUITE FILE_PATH="coverage/leetcode$200_number_of_islands.coverage" NAME="200.number-of-islands Coverage Results" MODIFIED="1539045852436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$207_course_schedule.coverage" NAME="207.course-schedule Coverage Results" MODIFIED="1539047718309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$056_merge_intervals.coverage" NAME="056.merge-intervals Coverage Results" MODIFIED="1538182534429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$221_maximal_square.coverage" NAME="221.maximal-square Coverage Results" MODIFIED="1539216105987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$017_letter_combinations_of_a_phone_number.coverage" NAME="017.letter-combinations-of-a-phone-number Coverage Results" MODIFIED="1537926783490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$179_largest_number.coverage" NAME="179.largest-number Coverage Results" MODIFIED="1539001027684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$167_two_sum_2_input_array_is_sorted.coverage" NAME="167.two-sum-2-input-array-is-sorted Coverage Results" MODIFIED="1538711614540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -143,9 +144,9 @@
     <session id="-1875927905">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="60" />
+          <entry key="project.closed" value="61" />
           <entry key="project.open.time.0" value="16" />
-          <entry key="project.open.time.1" value="31" />
+          <entry key="project.open.time.1" value="32" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="2" />
@@ -154,36 +155,36 @@
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="61" />
+          <entry key="project.opened" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="2" />
           <entry key="md" value="13" />
-          <entry key="py" value="182" />
+          <entry key="py" value="184" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="2" />
           <entry key="Markdown" value="13" />
-          <entry key="Python" value="182" />
+          <entry key="Python" value="184" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="49" />
+          <entry key="dummy" value="53" />
           <entry key="md" value="1032" />
-          <entry key="py" value="68393" />
+          <entry key="py" value="69032" />
           <entry key="sql" value="130" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="1032" />
-          <entry key="PLAIN_TEXT" value="49" />
-          <entry key="Python" value="68393" />
+          <entry key="PLAIN_TEXT" value="53" />
+          <entry key="Python" value="69032" />
           <entry key="SQL" value="130" />
         </counts>
       </usages-collector>
@@ -191,31 +192,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/207.course-schedule.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1085">
-              <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
-              <folding>
-                <marker date="1539047718302" expanded="true" signature="62:67" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/208.implement-trie(prefix-tree).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1860">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
-              <folding>
-                <marker date="1539048498470" expanded="true" signature="44:49" ph="..." />
-                <marker date="1539048498470" expanded="true" signature="216:221" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/209.minimum-size-subarray-sum.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -280,7 +256,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/216.combination-sum-3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
+            <state relative-caret-position="744">
               <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
               <folding>
                 <marker date="1539172976440" expanded="true" signature="44:49" ph="..." />
@@ -301,13 +277,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/218.the-skyline-problem.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
+            <state relative-caret-position="496">
               <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <marker date="1539173489617" expanded="true" signature="44:49" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/219.contains-duplicate-2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <marker date="1539215728321" expanded="true" signature="44:49" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/221.maximal-square.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+              <folding>
+                <marker date="1539216030756" expanded="true" signature="44:49" ph="..." />
               </folding>
             </state>
           </provider>
@@ -337,9 +337,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/145.binary-tree-postorder-traversal.py" />
-        <option value="$PROJECT_DIR$/146.LRU-cache.py" />
-        <option value="$PROJECT_DIR$/147.insert-sort-list.py" />
         <option value="$PROJECT_DIR$/148.sort-list.py" />
         <option value="$PROJECT_DIR$/150.evalute-reverse-polish-notation.py" />
         <option value="$PROJECT_DIR$/151.reverse-words-in-a-string.py" />
@@ -388,6 +385,9 @@
         <option value="$PROJECT_DIR$/216.combination-sum-3.py" />
         <option value="$PROJECT_DIR$/217.contains-duplicate.py" />
         <option value="$PROJECT_DIR$/218.the-skyline-problem.py" />
+        <option value="$PROJECT_DIR$/219.contains-duplicate-2.py" />
+        <option value="$PROJECT_DIR$/221.maximal-squaew.py" />
+        <option value="$PROJECT_DIR$/221.maximal-square.py" />
       </list>
     </option>
   </component>
@@ -462,29 +462,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.216.combination-sum-3">
-    <configuration name="209.minimum-size-subarray-sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/209.minimum-size-subarray-sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.221.maximal-square">
     <configuration name="210.course-schedule-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -573,20 +551,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="221.maximal-square" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/221.maximal-square.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.209.minimum-size-subarray-sum" />
       <item itemvalue="Python.210.course-schedule-2" />
       <item itemvalue="Python.213.house-robber-2" />
       <item itemvalue="Python.215.kth-largest-element-in-an-array" />
       <item itemvalue="Python.216.combination-sum-3" />
+      <item itemvalue="Python.221.maximal-square" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.221.maximal-square" />
         <item itemvalue="Python.216.combination-sum-3" />
         <item itemvalue="Python.215.kth-largest-element-in-an-array" />
         <item itemvalue="Python.213.house-robber-2" />
         <item itemvalue="Python.210.course-schedule-2" />
-        <item itemvalue="Python.209.minimum-size-subarray-sum" />
       </list>
     </recent_temporary>
   </component>
@@ -607,7 +607,7 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49171272" weight="0.3297568" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49171272" visible="true" weight="0.33404863" />
       <window_info id="Structure" order="1" sideWeight="0.5082873" side_tool="true" weight="0.35011992" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -686,20 +686,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/143.reorder-list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1209">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/144.binart-tree-preorder-traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/145.binary-tree-postorder-traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="682">
@@ -1056,7 +1042,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/216.combination-sum-3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
+        <state relative-caret-position="744">
           <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
           <folding>
             <marker date="1539172976440" expanded="true" signature="44:49" ph="..." />
@@ -1076,10 +1062,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/218.the-skyline-problem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
+        <state relative-caret-position="496">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <marker date="1539173489617" expanded="true" signature="44:49" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/219.contains-duplicate-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1539215728321" expanded="true" signature="44:49" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/221.maximal-square.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding>
+            <marker date="1539216030756" expanded="true" signature="44:49" ph="..." />
           </folding>
         </state>
       </provider>
