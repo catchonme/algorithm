@@ -1,0 +1,1 @@
+#!/usr/bin/python3class Solution(object):    def addDigits(self, num):        while num / 10 >= 1:            tmp = 0            while num / 10 >= 1:                tmp += num % 10                num /= 10            tmp += num % 10            num = tmp        return tmpsol = Solution()res = sol.addDigits(210)print(res)
