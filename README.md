@@ -26,3 +26,5 @@
 24. [Basic Calculator](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/224.%20Basic%20Calculator%20.md) 解法出错(这题和227题差不多，但是因为有了括号，增加了复杂度)
 25. [Flatten 2D Vector](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/251._Flatten_2D_Vector.md) 解法不对题
 26. [Meeting Rooms](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/252._Meeting_Rooms.md) 题目的input没有start和end属性，改成0/1
+27. [Meeting Rooms 2](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/253._Meeting_Rooms_II.md) 题目的input没有start和end属性，改成0/1
+28. [Factor Combinations](https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solutions/Python/254._Factor_Combinations.md) `res.append([i]+[n/i])` 修改为`res.append([i]+int([n/i]))`
