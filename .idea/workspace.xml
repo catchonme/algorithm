@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7395acd0-6d6d-4a40-8ace-78306dadd95e" name="Default Changelist" comment="" />
+    <list default="true" id="7395acd0-6d6d-4a40-8ace-78306dadd95e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,11 +128,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedList.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinkedList.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaScript/data-structures/linked-list/LinkedList.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="454">
               <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Queue.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScript/data-structures/queue/Queue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -175,7 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/206.reverse-linked-list.py" />
         <option value="$PROJECT_DIR$/207.course-schedule.py" />
         <option value="$PROJECT_DIR$/208.implement-trie(prefix-tree).py" />
         <option value="$PROJECT_DIR$/209.minimum-size-subarray-sum.py" />
@@ -226,6 +236,7 @@
         <option value="$PROJECT_DIR$/JavaScript/data-structures/heap/MinHeap.js" />
         <option value="$PROJECT_DIR$/JavaScript/data-structures/linked-list/LinkedListNode.js" />
         <option value="$PROJECT_DIR$/JavaScript/data-structures/linked-list/LinkedList.js" />
+        <option value="$PROJECT_DIR$/JavaScript/data-structures/queue/Queue.js" />
       </list>
     </option>
   </component>
@@ -291,7 +302,7 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
               <item name="data-structures" type="462c0819:PsiDirectoryNode" />
-              <item name="linked-list" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -589,15 +600,15 @@
       <workItem from="1539561755440" duration="488000" />
       <workItem from="1539567142967" duration="738000" />
       <workItem from="1539568024366" duration="1732000" />
+      <workItem from="1539653589263" duration="345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9008000" />
+    <option name="totallyTimeSpent" value="9353000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49171272" visible="true" weight="0.18111347" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -606,7 +617,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.43717948" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.786747" />
       <window_info id="Structure" order="1" sideWeight="0.5082873" side_tool="true" weight="0.35011992" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.53333336" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.774359" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -626,24 +637,24 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840763" visible="true" weight="0.30829757" />
       <window_info id="Structure" order="1" sideWeight="0.50159234" side_tool="true" weight="0.32761088" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.786747" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.29044586" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32891566" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.52611464" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.786747" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32891566" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -663,7 +674,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/205.isomorphic-string.py" />
     <entry file="file://$PROJECT_DIR$/206.reverse-linked-list.py" />
     <entry file="file://$PROJECT_DIR$/207.course-schedule.py" />
     <entry file="file://$PROJECT_DIR$/208.implement-trie(prefix-tree).py" />
@@ -755,6 +765,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="454">
           <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/data-structures/queue/Queue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
