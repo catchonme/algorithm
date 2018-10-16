@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7395acd0-6d6d-4a40-8ace-78306dadd95e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7395acd0-6d6d-4a40-8ace-78306dadd95e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,11 +135,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Queue.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Queue.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaScript/data-structures/queue/Queue.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="200">
               <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stack.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScript/data-structures/stack/Stack.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -186,7 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/207.course-schedule.py" />
         <option value="$PROJECT_DIR$/208.implement-trie(prefix-tree).py" />
         <option value="$PROJECT_DIR$/209.minimum-size-subarray-sum.py" />
         <option value="$PROJECT_DIR$/210.course-schedule-2.py" />
@@ -237,6 +243,7 @@
         <option value="$PROJECT_DIR$/JavaScript/data-structures/linked-list/LinkedListNode.js" />
         <option value="$PROJECT_DIR$/JavaScript/data-structures/linked-list/LinkedList.js" />
         <option value="$PROJECT_DIR$/JavaScript/data-structures/queue/Queue.js" />
+        <option value="$PROJECT_DIR$/JavaScript/data-structures/stack/Stack.js" />
       </list>
     </option>
   </component>
@@ -303,6 +310,13 @@
               <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
               <item name="data-structures" type="462c0819:PsiDirectoryNode" />
               <item name="queue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="data-structures" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -600,12 +614,12 @@
       <workItem from="1539561755440" duration="488000" />
       <workItem from="1539567142967" duration="738000" />
       <workItem from="1539568024366" duration="1732000" />
-      <workItem from="1539653589263" duration="345000" />
+      <workItem from="1539653589263" duration="1365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9353000" />
+    <option name="totallyTimeSpent" value="10373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -617,7 +631,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.43717948" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.786747" />
       <window_info id="Structure" order="1" sideWeight="0.5082873" side_tool="true" weight="0.35011992" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.774359" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.28589743" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -674,7 +688,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/206.reverse-linked-list.py" />
     <entry file="file://$PROJECT_DIR$/207.course-schedule.py" />
     <entry file="file://$PROJECT_DIR$/208.implement-trie(prefix-tree).py" />
     <entry file="file://$PROJECT_DIR$/209.minimum-size-subarray-sum.py" />
@@ -770,8 +783,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/data-structures/queue/Queue.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="200">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/data-structures/stack/Stack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
         </state>
       </provider>
     </entry>
