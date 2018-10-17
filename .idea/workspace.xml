@@ -4,7 +4,10 @@
     <list default="true" id="7395acd0-6d6d-4a40-8ace-78306dadd95e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     </list>
@@ -92,8 +95,13 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               <first_editor>
                 <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+=======
+              <first_editor relative-caret-position="124">
+                <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+>>>>>>> Stashed changes
 =======
               <first_editor relative-caret-position="124">
                 <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
@@ -107,17 +115,23 @@
         </entry>
       </file>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <file leaf-file-name="TrieNode.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JavaScript/data-structures/trie/TrieNode.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="333">
               <caret line="57" column="73" selection-start-line="57" selection-start-column="73" selection-end-line="57" selection-end-column="73" />
 =======
+=======
+>>>>>>> Stashed changes
       <file leaf-file-name="demo.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JavaScript/data-structures/demo.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="124">
               <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
             </state>
           </provider>
@@ -200,7 +214,10 @@
         <option value="$PROJECT_DIR$/JavaScript/data-structures/stack/Stack.js" />
         <option value="$PROJECT_DIR$/README.md" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/JavaScript/data-structures/trie/TrieNode.js" />
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
       </list>
@@ -216,7 +233,11 @@
     <packageJsonPaths />
   </component>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+=======
+  <component name="ProjectFrameBounds" fullScreen="true">
+>>>>>>> Stashed changes
 =======
   <component name="ProjectFrameBounds" fullScreen="true">
 >>>>>>> Stashed changes
@@ -269,6 +290,7 @@
               <item name="data-structures" type="462c0819:PsiDirectoryNode" />
             </path>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
@@ -276,6 +298,8 @@
               <item name="data-structures" type="462c0819:PsiDirectoryNode" />
               <item name="trie" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
           </expand>
@@ -562,7 +586,11 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="11146000" />
+=======
+    <option name="totallyTimeSpent" value="11855000" />
+>>>>>>> Stashed changes
 =======
     <option name="totallyTimeSpent" value="11855000" />
 >>>>>>> Stashed changes
@@ -576,6 +604,10 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32435897" />
+>>>>>>> Stashed changes
 =======
       <window_info anchor="bottom" id="Run" order="2" weight="0.32435897" />
 >>>>>>> Stashed changes
@@ -583,8 +615,11 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.43717948" />
       <window_info id="Structure" order="1" sideWeight="0.5082873" side_tool="true" weight="0.35011992" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.23878787" />
 =======
+=======
+>>>>>>> Stashed changes
       <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.64358974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
 >>>>>>> Stashed changes
@@ -693,6 +728,7 @@
     <entry file="file://$PROJECT_DIR$/258.add-digits.py" />
     <entry file="file://$PROJECT_DIR$/257.binary-tree-paths.py" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -705,6 +741,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/JavaScript/sorting/counting-sort.js">
@@ -774,6 +812,7 @@
       </provider>
     </entry>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/JavaScript/data-structures/demo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
@@ -786,6 +825,8 @@
         <state relative-caret-position="333">
           <caret line="57" column="73" selection-start-line="57" selection-start-column="73" selection-end-line="57" selection-end-column="73" />
 =======
+=======
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/JavaScript/data-structures/hash-table/HashTable.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
@@ -809,6 +850,9 @@
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         </state>
       </provider>
